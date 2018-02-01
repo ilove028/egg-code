@@ -1,0 +1,26 @@
+{
+  "name": "egg-code",
+  "version": "1.0.0",
+  "description": "Egg source code study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilove028/egg-code.git"
+  },
+  "keywords": [
+    "Egg",
+    "source"
+  ],
+  "author": "mx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilove028/egg-code/issues"
+  },
+  "homepage": "https://github.com/ilove028/egg-code#readme",
+  "dependencies": {
+    "egg": "git+https://github.com/ilove028/egg.git"
+  }
+}
