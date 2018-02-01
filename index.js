@@ -1,4 +1,4 @@
-const { startCluster } = require('egg-cluster');
+const { startCluster } = require('egg');
 
 startCluster({
     framework: 'egg',
