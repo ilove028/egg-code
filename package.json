@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ilove028/egg-code#readme",
   "dependencies": {
     "egg": "git+https://github.com/ilove028/egg.git"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0"
   }
 }
