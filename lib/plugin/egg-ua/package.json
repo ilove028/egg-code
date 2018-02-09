@@ -1,5 +1,13 @@
 {
+  "name": "egg-ua",
+  "version": "1.0.0",
+  "description": "User agent detect",
   "eggPlugin": {
     "name": "ua"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mx",
+  "license": "ISC"
 }
